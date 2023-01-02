@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviez-site/static/css/main.8f0390fd.css",
+    "main.js": "/moviez-site/static/js/main.b098475e.js",
+    "index.html": "/moviez-site/index.html",
+    "static/media/search.svg": "/moviez-site/static/media/search.7ee7a2cd4680929dd399bf1fe1c8868b.svg",
+    "main.8f0390fd.css.map": "/moviez-site/static/css/main.8f0390fd.css.map",
+    "main.b098475e.js.map": "/moviez-site/static/js/main.b098475e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0390fd.css",
+    "static/js/main.b098475e.js"
+  ]
+}
